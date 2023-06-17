@@ -1,22 +1,27 @@
-## BMI Calculator
-***
-This is a BMI(Body Mass Index) Calculator made with using Python language. This calculator shows the health status of a person by just knowing their mass(kg) and height(m).
-This repo file contains the source code for this BMI Calculator.
+# BMI Calculator
 
-# Repository Overview
-***
-The repo contains three files in it :-
+This is a simple BMI (Body Mass Index) calculator script written in Python. It calculates the BMI based on the user's input for weight and height and provides information about the user's health status based on the calculated BMI value.
 
-1. "main.py" file contains the python code of this project and it is the main code for this BMi calculator.
-2. "exportToHTML" file contains the python code in HTML format for the quick glance of the project code.
-3. ".idea" file contains all the extra files of this project.
+## How to Use
 
-# Compilation guide
-***
-1. Open the "main.py" file (https://github.com/Krishan-Kant-11/BMI_Calculator./blob/master/main.py), from the repo of this project.
-2. Copy the source code or save the whole "main.py file" in your computer.
-3. Open any Python IDE and, paste or open, the "main.py" file in it.
-4. Hit the run button and put the input values asked, that are "mass(Kg)" and "height(m)".
+1. Run the script.
+2. Enter your weight in kilograms when prompted.
+3. Enter your height in meters when prompted.
+4. The script will calculate your BMI using the provided weight and height.
+5. The script will then display your health status based on the calculated BMI value.
+
+## BMI Categories
+
+The script classifies the user's health status into the following categories based on the calculated BMI value:
+
+- Underweight: BMI less than 18.5
+- Normal: BMI between 18.5 and 24.9
+- Overweight: BMI between 25 and 29.9
+- Obese: BMI greater than 30
+
+## Requirements
+
+- Python 3
 
 # Story of This Project
 
