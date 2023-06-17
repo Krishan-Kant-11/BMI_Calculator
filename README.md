@@ -4,7 +4,7 @@ This is a simple BMI (Body Mass Index) calculator script written in Python. It c
 
 ## How to Use
 
-1. Run the script.
+1. Run the script using the command `python main.py`.
 2. Enter your weight in kilograms when prompted.
 3. Enter your height in meters when prompted.
 4. The script will calculate your BMI using the provided weight and height.
